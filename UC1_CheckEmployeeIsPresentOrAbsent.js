@@ -1,5 +1,5 @@
 console.log("Welcome to Employee Wage Problem \n")
-//UC1 Ability to check Employees is present or absent
+//UC1 Ability to check Employees is present or absent.
 const IS_ABSENT = 0;
 let empCheck = Math.floor(Math.random()*10)%2;
 if(empCheck == IS_ABSENT)
